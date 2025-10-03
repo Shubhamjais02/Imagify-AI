@@ -1,0 +1,15 @@
+# Ignore Windows system/AppData files
+AppData/
+*.dat
+*.jtx
+*.log
+*.tmp
+
+# VS Code settings
+.vscode/
+
+# Node.js dependencies (if using Node)
+node_modules/
+
+# Environment files
+.env
