@@ -14,7 +14,7 @@ const AppContextProvider = (props) => {
 
     const [credit, setCredit] = useState(false)
 
-    const backendurl = import.meta.env.VITE_BACKEND_URL
+    const backendurl = "https://imagify-ai-server-lu9d.onrender.com"
 
     const navigate = useNavigate()
 
